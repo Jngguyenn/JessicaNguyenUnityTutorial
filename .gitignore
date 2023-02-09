@@ -58,3 +58,13 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+*.meta
+*.unity
+Assets/Scripts/.DS_Store
+Assets/.DS_Store
+*.asset
+*.json
+*.config
+*.txt
+*.dwlt
+.DS_Store
